@@ -1,0 +1,12 @@
+* {
+    --background-color: #121212;
+    --color: #f8c620;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--color);
+}
